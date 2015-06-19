@@ -28,19 +28,10 @@ permalinksavereportgive goldreply
 OK, what do gamers want?
 
 
-<<<<<<< HEAD
-Making an edit to fix for merging
-
-
-=======
-
-Making a conflicting edit
 Making an edit to fix for merging
 
 
 
-
->>>>>>> feature/test1
 [–]specfreq 5 points 6 hours ago 
 They are right about it being early for VR and cashing in quick is a good plan.
 I imagine they will be forgotten in 2 weeks because of all the problems they will need to face to remain relevant have already been solved by larger companies that will be released in less than a year.
